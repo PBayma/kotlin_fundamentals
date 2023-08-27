@@ -1,4 +1,4 @@
-package com.bayma.kotlin_fundamentals
+package com.bayma.kotlin_fundamentals.variables
 
 fun main() {
     var totalResult = 0
